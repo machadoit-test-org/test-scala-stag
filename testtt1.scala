@@ -1,1 +1,1 @@
-var aloStag = 123
+val aloStag = 123
